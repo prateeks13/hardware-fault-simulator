@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "Prisma.prisma",
+    "YoavBls.pretty-ts-errors",
+    "ms-azuretools.vscode-docker"
+  ]
+}
